@@ -1,0 +1,14 @@
+{
+  "edition": "gh-geekhouse",
+  "extensions": [
+    "gh"
+  ],
+  "characters": [
+    {
+      "name": "scoundrel",
+      "edition": "gh",
+      "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdQobyN6pTL5O_ZBhgcxO0FWI0RGw9HgpA8-XLgNrsfiXz3TT3LZMDVRgiv17F5POSca-GWBBuKtIdCFpEjhz29S_1RnZEFtGHyk4FZvtDWl8l6WtEETms3Gc5JeRLSxlTfytcMW1Xhyjrxmk9p3_OL954mMaq29aBWPkgPW9yyWo451fPYGk2ybXv/s16000/errisprofile.png",
+      "merge": true
+    }
+  ]
+}
