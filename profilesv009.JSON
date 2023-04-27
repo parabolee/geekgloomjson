@@ -11,14 +11,6 @@
       "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/erris-scoundrel.png",
       "merge": true
     }
-  ]
-}
-{
-  "edition": "gh-geekhouse",
-  "extensions": [
-    "gh"
-  ],
-  "characters": [
     {
       "name": "spellweaver",
       "edition": "gh",
