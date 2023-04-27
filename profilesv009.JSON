@@ -13,3 +13,17 @@
     }
   ]
 }
+{
+  "edition": "gh-geekhouse",
+  "extensions": [
+    "gh"
+  ],
+  "characters": [
+    {
+      "name": "spellweaver",
+      "edition": "gh",
+      "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/spellweaverprofile.png",
+      "merge": true
+    }
+  ]
+}
