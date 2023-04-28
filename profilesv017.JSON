@@ -9,11 +9,6 @@
       "edition": "gh",
       "color": "#530509",
       "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/erris-scoundrel.png",
-      "merge": true
-    }
-  ]
-  "characters": [
-    {
       "name": "spellweaver",
       "edition": "gh",
       "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/spellweaverprofile.png",
