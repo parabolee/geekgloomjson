@@ -17,6 +17,18 @@
       "edition": "gh",
       "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/spellweaverprofile.png",
       "merge": true
+    },
+    {
+      "name": "cragheart",
+      "edition": "gh",
+      "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/bilburprofile.png",
+      "merge": true
+    },
+    {
+      "name": "mindthief",
+      "edition": "gh",
+      "thumbnailUrl": "https://raw.githubusercontent.com/parabolee/geekgloomjson/main/francisprofile.png",
+      "merge": true
     }
   ]
 }
